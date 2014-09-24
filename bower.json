@@ -1,0 +1,23 @@
+{
+  "name": "ngColorThief",
+  "version": "0.1.0",
+  "authors": [
+    "Ian Murray <ianmurrays@gmail.com>"
+  ],
+  "description": "ColorThief wrapper for AngularJS",
+  "keywords": [
+    "colorthief",
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "color-thief": "*"
+  }
+}
