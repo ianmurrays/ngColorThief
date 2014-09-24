@@ -8,7 +8,7 @@ ngColorThief is a wrapper for the [ColorThief](https://github.com/lokesh/color-t
 
 Install via bower
 
-    bower install ngColorThief --save
+    bower install angular-colorthief --save
 
 Or just copy the `angular-colorthief.min.js` file to your project. Next, add the module as a dependency to your project:
 

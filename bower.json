@@ -2,7 +2,7 @@
   "name": "ngColorThief",
   "version": "0.1.0",
   "authors": [
-    "Ian Murray <ianmurrays@gmail.com>"
+    "Ian Murray <me@ianmurray.me>"
   ],
   "description": "ColorThief wrapper for AngularJS",
   "keywords": [
