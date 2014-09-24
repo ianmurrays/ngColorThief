@@ -69,7 +69,7 @@ The library is minimized using Closure Compiler with the following command
     
 ## Contributing
 
-    Pull requests are welcome! Please fork, create a branch and submit a pull request.
+Pull requests are welcome! Please fork, create a branch and submit a pull request.
 
 ## License
 
