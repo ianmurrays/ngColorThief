@@ -51,14 +51,14 @@ You can configure global settings via the provider
 
     app.config(function ($colorThiefProvider) {
       // Set the default quality
-      $colorThief.setDefaultQuality(50);
+      $colorThiefProvider.setDefaultQuality(50);
 
       // Set the default palette color count
-      $colorThief.setDefaultColorCount(4);
+      $colorThiefProvider.setDefaultColorCount(4);
 
       // Set wether to return arrays (ColorThief's default) or
       // objects like {r: 242, g: 124, b: 91} (false by default).
-      $colorThief.setReturnObjects(true);
+      $colorThiefProvider.setReturnObjects(true);
     });
     
 ## Minimizing
